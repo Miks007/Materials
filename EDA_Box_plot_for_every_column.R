@@ -1,4 +1,5 @@
 ### BOX PLOTS
+## tested on continuous variables only
 # Calculate the number of plots needed
 num_plots <- ceiling(ncol(df) / 5)
 
